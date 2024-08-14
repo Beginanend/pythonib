@@ -1,5 +1,6 @@
-# metisChan
+# todos amamos a lain
 
-A flask *Chan clone, built to be very lightweight.
+
+aAmamos a lain
 
 ![i have autism](https://i.imgur.com/f8T8jTn.png)
